@@ -21,7 +21,7 @@ Using various statistical tests and applied modelling (logistical regression), I
 
 #### Datasets
 
-The dataset I used to compose an A/B test came in this form containing six columns:
+The dataset I used to compose an A/B test came in this form containing five columns:
 
 |user_id   |timestamp   |group   |landing_page   |converted   |
 |--:|--:|--:|---|---|
