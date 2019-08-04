@@ -17,5 +17,18 @@ Using various statistical tests and applied modelling (logistical regression), I
 
 **Null hypothesis:** there is *no difference* between the new and old page in terms of the proportion of click through rates
 <br>
-<br>
 **Alternative hypothesis:** there is a *difference* between the new and old page in terms of the proportion of click through rates
+
+#### Datasets
+
+The dataset I used to compose an A/B test came in this form containing six columns:
+
+|user_id   |timestamp   |group   |landing_page   |converted   |
+|--:|--:|--:|---|---|
+851104 | 2017-01-21 ```(YYYY-MM-DD)``` 22:11:48.556739 ```(HH:MM:SS)```| ```Control``` or ```treatment```| ```old_page``` or ```new_page```| 1 - ```TRUE``` 0 - ```FALSE```|
+
+Additionally, I also utilised a dataset containing the country the corresponding users originated from, measuring any interaction/effect during testing:
+
+|user_id   |country  |
+|--:|--:|
+834778| ```UK```, ```US``` or ```Canada (CA)```
