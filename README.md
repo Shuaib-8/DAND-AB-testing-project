@@ -79,8 +79,8 @@ Additionally, I also utilised a dataset containing the country the corresponding
 
 The data I used is provided by Udacity.
 The files can be accessed here under a ```.csv``` format:
-[ab_data](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
-[countries](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
+* [ab_data](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
+* [countries](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
 
 ### References
 
