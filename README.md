@@ -74,3 +74,10 @@ Additionally, I also utilised a dataset containing the country the corresponding
     * Baseline - Canada
     * Comparison countries - UK AND US
 * Multiplicative interaction - country * ab page (interaction between page and country to see if there are significant effects on conversion).
+
+### Files used
+
+The data I used is provided by Udacity.
+The files can be accessed here under a ```.csv``` format:
+[ab_data](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
+[countries](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
