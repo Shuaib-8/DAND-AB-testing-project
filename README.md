@@ -81,3 +81,15 @@ The data I used is provided by Udacity.
 The files can be accessed here under a ```.csv``` format:
 [ab_data](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
 [countries](https://drive.google.com/open?id=1_EnnOjfAOcFbqXCpX9RcqHzFBsd8NbQwpSv4m42iVCc)
+
+### References
+
+Beyond my Udacity mentor, peers and lectures, I consulted a number of resources including:
+* [DataCamp - Statistical thinking I](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+Taught by Justin Bois
+[DataCamp - Statistical thinking II](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
+* [Brilliant Statistics](https://brilliant.org/courses/statistics/)
+* [Beginner’s Guide to A/B Testing Facebook Ads](https://adespresso.com/guides/facebook-ads-optimization/ab-testing/)
+* [Optimization guide - A/B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/)
+* [Critical values and p values](https://www.itl.nist.gov/div898/handbook/prc/section1/prc131.htm)
+* [UCLA - interpreting a p-value](https://stats.idre.ucla.edu/other/mult-pkg/faq/pvalue-htm/)
