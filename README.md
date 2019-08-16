@@ -93,3 +93,4 @@ Taught by Justin Bois
 * [Optimization guide - A/B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/)
 * [Critical values and p values](https://www.itl.nist.gov/div898/handbook/prc/section1/prc131.htm)
 * [UCLA - interpreting a p-value](https://stats.idre.ucla.edu/other/mult-pkg/faq/pvalue-htm/)
+* [Downey (2014) - Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
